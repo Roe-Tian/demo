@@ -9,13 +9,13 @@
 
 ## javascript
 
-[iScroll-滑动插件](https://github.com/Roe-Tian/demo/tree/master/iscroll)
+[iScroll:滑动插件](https://github.com/Roe-Tian/demo/tree/master/iscroll)
 
-[mobileSelect-移动端选择框](https://github.com/Roe-Tian/demo/tree/master/mobile-select)
+[mobileSelect:移动端选择框](https://github.com/Roe-Tian/demo/tree/master/mobile-select)
 
-[particles-颗粒动画](https://github.com/Roe-Tian/demo/tree/master/particles)
+[particles:颗粒动画](https://github.com/Roe-Tian/demo/tree/master/particles)
 
-[rotate-lottery-抽奖转盘](https://github.com/Roe-Tian/demo/tree/master/rotate-lottery)
+[rotate-lottery:抽奖转盘](https://github.com/Roe-Tian/demo/tree/master/rotate-lottery)
 
 
 ## jQuery
@@ -39,8 +39,9 @@
 
 [css渐变编辑器](https://www.colorzilla.com/gradient-editor/)
 
-[TradingView-HTML5金融图表](https://cn.tradingview.com/)
+[TradingView:HTML5金融图表](https://cn.tradingview.com/)
 
-[lightweight-charts-轻量级图表](https://cn.tradingview.com/lightweight-charts/)
+[lightweight-charts:轻量级图表](https://cn.tradingview.com/lightweight-charts/)
 
+[ECharts:百度开发的数据图表库](https://www.echartsjs.com/examples/zh/index.html)
 
