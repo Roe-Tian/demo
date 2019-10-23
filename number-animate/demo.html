@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>数字滚动demo</title>
+<meta charset="UTF-8">
+<style>
+/*数字滚动的CSS样式*/
+.mt-number-animate{ font-family: 'helvetica neue', helvetica, 'heiti sc', 'droid sans fallback',sans-serif; line-height:48px; height: 48px; color: #FF6900; font-size: 48px; overflow: hidden; display: inline-block; }
+.mt-number-animate .mt-number-animate-dom{ width: 26px; text-align: center; float: left; position: relative; top: 0;}
+.mt-number-animate .mt-number-animate-dom .mt-number-animate-span{ width: 100%; float: left;}
+</style>
+</head>
+<body>
+
+<span class="numberRun">256.95</span>
+
+</body>
+<script src="zepto.js"></script>
+<script src="comm.js"></script>
+<script>
+$(function(){
+  
+  //初始化
+  var numRunInitValue = $(".numberRun").html();
+  var numRun = $(".numberRun").numberAnimate({num:numRunInitValue, dot:2, speed:2000});
+  var numRunValue = parseFloat(numRunInitValue);
+  setInterval(function(){
+    numRunValue+= 0.24;
+    numRun.resetData(numRunValue);
+  },5000);
+
+});  
+</script>
+</html>
