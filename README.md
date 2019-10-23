@@ -32,7 +32,7 @@
 
 ## UI 框架
 
-[Chain Responsive Bootstrap3 Admin：后台管理UI模板](http://themetrace.com/demo/chain/)
+[Chain Responsive Bootstrap3 Admin：后台管理系统-UI模板](http://themetrace.com/demo/chain/)
 
 
 ## 工具
