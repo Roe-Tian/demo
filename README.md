@@ -28,3 +28,19 @@
 ## zepto
 
 [数字滚动](https://github.com/Roe-Tian/demo/blob/master/number-animate/demo.html)
+
+
+## UI 框架
+
+[Chain Responsive Bootstrap3 Admin](http://themetrace.com/demo/chain/)
+
+
+## 工具
+
+[css渐变编辑器](https://www.colorzilla.com/gradient-editor/)
+
+[TradingView-HTML5金融图表](https://cn.tradingview.com/)
+
+[lightweight-charts-轻量级图表](https://cn.tradingview.com/lightweight-charts/)
+
+
