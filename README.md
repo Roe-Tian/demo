@@ -5,4 +5,12 @@
 
 ## javascript
 
-[iScroll滚动插件](https://github.com/Roe-Tian/demo/tree/master/iscroll)
+[iScroll](https://github.com/Roe-Tian/demo/tree/master/iscroll)
+
+[mobileSelect](https://github.com/Roe-Tian/demo/tree/master/mobile-select)
+
+[particles](https://github.com/Roe-Tian/demo/tree/master/particles)
+
+## jQuery
+
+[移动端滑动标尺](https://github.com/Roe-Tian/demo/blob/master/jquery-navbarscroll/index.html)
